@@ -1,1 +1,2 @@
-There are three kinds of lies: lies, damned lies, and statistics
+Fixes typo in contributing.rst and readme.rst
+
