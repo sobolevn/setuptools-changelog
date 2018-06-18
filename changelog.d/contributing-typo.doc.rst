@@ -1,2 +1,2 @@
-Fixes typo in contributing.rst and readme.rst
+Fixes typo in contributing.rst
 
